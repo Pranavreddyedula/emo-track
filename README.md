@@ -29,19 +29,7 @@
 | Chatbots | Understand user feelings more accurately |
 | Smart Assistants | Empathetic communication |
 
----
 
-## 🏗️ System Architecture
-
-```mermaid
-flowchart LR
-User --> UI[Gradio Web UI]
-UI --> Preprocess[NLP Preprocessing]
-Preprocess --> DL[BiLSTM Deep Learning Model]
-DL --> Emotion[Emotion Output + Emoji]
-Emotion --> Log[(Mood Log CSV)]
-Log --> Analytics[Graphs & Stats]
-Analytics --> UI
 ⚙️ Technologies Used
 
 Python (Deep Learning + NLP)
