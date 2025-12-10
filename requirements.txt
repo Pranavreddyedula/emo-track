@@ -1,0 +1,6 @@
+gradio
+tensorflow
+pandas
+numpy
+matplotlib
+scikit-learn
