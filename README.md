@@ -74,14 +74,7 @@ python app.py
 
 ⏳ Wait few seconds → App will open in a browser window automatically.
 
-📈 Screenshots (Example)
-
-Replace these placeholders with real screenshots
-
-Log Mood Screen	Analytics Screen
-
-	
-🧩 Emotion Labels & Emojis
+	🧩 Emotion Labels & Emojis
 Emotion	Emoji
 Love	❤️
 Joy / Happy	😄
